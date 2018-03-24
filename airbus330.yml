@@ -1,0 +1,13 @@
+---
+name: Airbus A330 | 200
+type: Long Haul Aircraft
+seats: 256
+length: 58.8
+height: 17.4
+wingspan: 60.3
+cruisingSpeed: 870
+seats:
+  - business: 20
+  - premiumEconomy: 50
+  - economyClass: 180
+  - economyClassConfort: 6
