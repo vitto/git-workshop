@@ -1,11 +1,11 @@
 ---
 name: Embraer 190
 type: Regional Aircraft
-seats: 100
+seats: 120
 length: 36.2
 height: 10.55
 wingspan: 28.7
 cruisingSpeed: 850
 seats:
-  - economyClass: 90
-  - economyClassConfort: 10
+  - economyClass: 100
+  - economyClassConfort: 20
