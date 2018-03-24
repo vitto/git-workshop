@@ -1,0 +1,13 @@
+---
+name: Boeing 777 | 200 ER
+type: Long Haul Aircraft
+seats: 293
+length: 63.7
+height: 18.5
+wingspan: 60.9
+cruisingSpeed: 910
+seats:
+  - business: 20
+  - premiumEconomy: 40
+  - economyClass: 150
+  - economyClassConfort: 83
