@@ -1,0 +1,12 @@
+---
+name: Airbus A321
+type: Medium Haul Aircraft
+seats: 200
+length: 44.5
+height: 11.8
+wingspan: 34.1
+cruisingSpeed: 850
+seats:
+  - business: 20
+  - premiumEconomy: 50
+  - economyClass: 110
