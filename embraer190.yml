@@ -5,7 +5,7 @@ seats: 100
 length: 42
 height: 12
 wingspan: 32
-cruisingSpeed: 950
+cruisingSpeed: 1000
 seats:
   - economyClass: 90
   - economyClassConfort: 10
