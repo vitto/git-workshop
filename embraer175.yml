@@ -1,0 +1,10 @@
+name: Embraer 175
+type: Regional Aircraft
+seats: 88
+length: 31.7
+height: 9.73
+wingspan: 26
+cruisingSpeed: 850
+seats:
+  - economyClass: 80
+  - economyClassConfort: 8
